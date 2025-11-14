@@ -9,3 +9,10 @@ function getComputerChoice() {
     }
     return "scissors";
 }
+
+function getHumanChoice() {
+    const choice = prompt("Choose!");
+}
+
+
+
